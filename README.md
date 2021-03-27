@@ -1,6 +1,6 @@
 # Simply task app with json server
 
-![Alt text](https://github.com/LabJukka/React-todo/blob/main/View.PNG "Title")
+![Alt text](https://github.com/LabJukka/Task_app_react/blob/main/View.PNG "Title")
 
 # Install dependencies
     - npm install
